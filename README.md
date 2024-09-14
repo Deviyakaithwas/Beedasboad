@@ -1,5 +1,5 @@
-Node.js User and Student Management API
-This is a simple API built using Node.js, Express, and MongoDB for managing users and students. It includes features like user authentication (login), user blocking/unblocking, and basic CRUD operations for managing student records.
+*** Node.js User and Student Management API ***
+- This is a simple API built using Node.js, Express, and MongoDB for managing users and students. It includes features like user authentication (login), user blocking/unblocking, and basic CRUD operations for managing student records.
 
 Features
 - User Authentication: Users can log in using their email and password.
